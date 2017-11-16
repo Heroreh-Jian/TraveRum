@@ -1,0 +1,15 @@
+#profile-image,
+#profile-avatar {
+  border-radius: 5px;
+  display: block;
+ 
+}
+
+#profile-image {
+  margin: 0 auto 15px;
+  width: 100%;
+}
+
+#home-aside{
+margin-top:120px;
+}
